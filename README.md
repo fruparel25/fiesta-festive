@@ -43,6 +43,6 @@ You can find the application requirements in the requirements folder.
 
 **#Reset Password:**
 
-![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/68156061/110524149-0744cb00-8139-11eb-9a03-19589f65e536.gif)
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/68156061/110524149-0744cb00-8139-11eb-9a03-19589f65e536.gif) 
 
 
