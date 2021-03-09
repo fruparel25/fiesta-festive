@@ -32,7 +32,7 @@ You can find the application requirements in the requirements folder.
 
 **pip install -r requirements.txt**
 
-3.Run the application and go to localhost:5000 to see the application running:
+3.Run the application and go to localhost:5000 to see the application running: 
 
 ![image](https://user-images.githubusercontent.com/68156061/110309106-ee4bf500-8026-11eb-9f1e-b9cb10aaece5.png)
 
