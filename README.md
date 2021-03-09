@@ -35,3 +35,8 @@ You can find the application requirements in the requirements folder.
 3.Run the application and go to localhost:5000 to see the application running:
 
 ![image](https://user-images.githubusercontent.com/68156061/110309106-ee4bf500-8026-11eb-9f1e-b9cb10aaece5.png)
+
+**#Front Page**
+
+![image](https://user-images.githubusercontent.com/68156061/110518570-44598f00-8132-11eb-8f31-dfe9b2daf30f.png)
+
