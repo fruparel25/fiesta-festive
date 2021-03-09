@@ -21,14 +21,6 @@
             <img class="nav-item nav-link" src="{{url_for('static', filename='new3.jpg')}}" />
          </div>
         <!-- Navbar Right Side -->
-        <div class="navbar-nav">
-            {% if current_user.is_auntheticated%}
-              <a class="nav-item nav-link" href="/logout">Logout</a>
-            {% else %}
-              <a class="nav-item nav-link" href="/login">Login</a>
-              <a class="nav-item nav-link" href="/register">Register</a>
-            {% endif %}
-        </div>
       </div>
     </div>
   </nav>

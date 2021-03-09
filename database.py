@@ -7,6 +7,10 @@ def load_user(ad_id):
 	return Admin.query.get(int(ad_id))
 
 @login_manager.user_loader
+def load_user(fee_id):
+	return Feedback.query.get(int(fee_id))
+
+@login_manager.user_loader
 def load_user(cus_id):
 	return Customer.query.get(int(cus_id))
 
@@ -67,6 +71,14 @@ class Admin(db.Model,UserMixin):
 
 	def __repr__(self):
 		return f"Admin('{self.username}','{self.name}','{self.password}')"
+
+class Feedback(db.Model,UserMixin):
+	id = db.Column(db.Integer,primary_key=True)
+	customer_id = db.Column(db.String(20),nullable=False)
+	feedback = db.Column(db.String(100),nullable=False)
+	def __repr__(self):
+		return f"Admin('{self.customer_id}','{self.feedback}')"
+
 
 class Customer(db.Model,UserMixin):
 	id = db.Column(db.Integer,primary_key=True)

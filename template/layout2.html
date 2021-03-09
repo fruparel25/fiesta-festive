@@ -20,6 +20,9 @@
          <div class="navbar-nav ">
             <img class="nav-item nav-link" src="{{url_for('static', filename='new3.jpg')}}" />
          </div>
+        <div class="navbar-nav mr-auto" >
+          <a class="nav-item nav-link" href="/about">About</a>
+        </div>
         <!-- Navbar Right Side -->
         <div class="navbar-nav">
             {% if current_user.is_auntheticated%}

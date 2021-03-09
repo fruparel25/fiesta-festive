@@ -38,6 +38,7 @@ login_manager.login_message_category='info'
 def n():
 	return  render_template('n.html')
 
+
 @app.route("/home",methods=['GET','POST'])
 def home():
 	form=FestivalSelection()
@@ -989,7 +990,7 @@ def newyearproduct():
 
 def logout():
 	logout_user()
-	return redirect(url_for("home"))
+	return redirect(url_for("n"))
 
 
 
