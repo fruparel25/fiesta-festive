@@ -38,7 +38,7 @@ You can find the application requirements in the requirements folder.
 
 **#Front Page**
 
-![image](https://user-images.githubusercontent.com/68156061/110524667-af5a9400-8139-11eb-9bc0-e1a5bc8653c0.png)<br/>
+![image](https://user-images.githubusercontent.com/68156061/110524667-af5a9400-8139-11eb-9bc0-e1a5bc8653c0.png)    
 
 
 **#Reset Password:**
