@@ -51,4 +51,6 @@ You can find the application requirements in the requirements folder.
 
 **#Add to Cart:**
 
+![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/68156061/110577283-5cf49400-8188-11eb-8abc-6f0a3ed5f3e9.gif)
+
 
