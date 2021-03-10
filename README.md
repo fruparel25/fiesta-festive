@@ -48,3 +48,7 @@ You can find the application requirements in the requirements folder.
 **#Different festival pages:**
 
 ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/68156061/110576640-1ce0e180-8187-11eb-93ab-424e1ed4aeaa.gif)
+
+**#Add to Cart:**
+
+
